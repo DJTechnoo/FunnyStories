@@ -21,7 +21,7 @@ For example you would want to know the tense of the verb that is expected, or
 whether a noun should come in as plural. Here is an example:
 
 ````
-One upon a time, there were two <nouns>.
+Once upon a time, there were two <nouns>.
 Yesterday one of them <verbed> his <noun>.
 Why is he <verbing> so much?
 ````
